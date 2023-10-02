@@ -1,0 +1,48 @@
+.header1{
+    width:100%;
+    margin-top:0;
+    font-size:23px;
+    
+    
+}
+
+.note{
+    font-size:17px;
+}
+
+body{
+    background-size:cover;
+}
+
+.speed{
+    float:left;
+}
+
+.disk1{
+    width:200px;
+    border-radius:100px;
+}
+
+#speed_id,#volume_id{
+    margin:15px;
+}
+
+.disk2{
+    width:200px;
+    border-radius:100px;
+}
+
+.volume{
+    float:right;
+}
+
+.play_r{
+    width: 130px;
+    font-size: 22px;
+    border-radius: 30px;
+}
+
+canvas{
+    border-radius: 30px;
+    border: 5px solid black;
+}
